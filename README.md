@@ -37,7 +37,7 @@ O objetivo deste projeto é praticar análise de dados utilizando Python, realiz
 
 ## ▶️ Como executar o projeto
 1. Clone o repositório
-git clone LINK_DO_SEU_REPOSITORIO
+git clone (https://github.com/Silva-Raiane/Analise_Vendas_com_Python_Pandas.git)
 2. Instale as bibliotecas
 pip install pandas numpy matplotlib openpyxl
 3. Execute o notebook
